@@ -1,1 +1,1 @@
-<img alt="a man who is locked tf in" src="./image.png" width="480" />
+<img alt="a man who is locked tf in" src="./image.png" width="500" />
